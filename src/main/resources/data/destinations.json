@@ -1,0 +1,838 @@
+[
+  {
+    "name": "Kathmandu",
+    "slug": "kathmandu",
+    "shortDescription": "The ancient and vibrant capital city of Nepal.",
+    "longDescription": "Kathmandu, the capital and largest city of Nepal, is a vibrant hub of ancient history, culture, and religion. Nestled in a valley surrounded by Himalayan mountains, the city is home to seven UNESCO World Heritage Sites.",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1544443538-c6d5c6b6b946?q=80&w=2070"
+    ],
+    "province": "Bagmati Province",
+    "category": "Cultural",
+    "keyAttractions": [
+      "Swayambhunath (Monkey Temple)",
+      "Pashupatinath Temple",
+      "Boudhanath Stupa",
+      "Kathmandu Durbar Square"
+    ]
+  },
+  {
+    "name": "Upper Mustang",
+    "slug": "upper-mustang",
+    "shortDescription": "A remote, high-altitude desert kingdom with Tibetan culture.",
+    "longDescription": "Often called the 'Last Forbidden Kingdom,' Upper Mustang is a remote and arid region that borders Tibet. Its landscape is a stunning desert of eroded canyons and colorful rock formations, dotted with ancient monasteries.",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1605646342890-138d179ebf9f?q=80&w=2070"
+    ],
+    "province": "Gandaki Province",
+    "category": "Trekking",
+    "keyAttractions": [
+      "Lo Manthang",
+      "Ancient Sky Caves",
+      "Ghar Gompa",
+      "Chhoser Caves"
+    ]
+  },
+  {
+    "name": "Manang",
+    "slug": "manang",
+    "shortDescription": "A high-altitude village on the Annapurna Circuit.",
+    "longDescription": "Manang is a stunning high-altitude village that serves as a key acclimatization point for trekkers on the Annapurna Circuit. The region offers breathtaking views of the Annapurna and Gangapurna peaks.",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-16174478713093-21b4a6825c48?q=80&w=1935"
+    ],
+    "province": "Gandaki Province",
+    "category": "Trekking",
+    "keyAttractions": [
+      "Annapurna Circuit",
+      "Tilicho Lake",
+      "Gangapurna Lake"
+    ]
+  },
+  {
+    "name": "Janakpur",
+    "slug": "janakpur",
+    "shortDescription": "The heart of Maithili culture and birthplace of Goddess Sita.",
+    "longDescription": "Located on the Terai plains, Janakpur is a major religious and cultural center. It is revered in the Hindu epic Ramayana as the birthplace of Goddess Sita. The city is famous for the stunning Janaki Mandir, a unique example of Hindu-Koiri architecture.",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1620921471711-20904573b943?q=80&w=2070"
+    ],
+    "province": "Madhesh Province",
+    "category": "Religious",
+    "keyAttractions": [
+      "Janaki Mandir",
+      "Dhanush Sagar",
+      "Ram Mandir",
+      "Ganga Sagar"
+    ]
+  },
+  {
+    "name": "Bardia National Park",
+    "slug": "bardia-national-park",
+    "shortDescription": "A remote and pristine wildlife reserve in the Terai.",
+    "longDescription": "More remote and less crowded than Chitwan, Bardia National Park is one of the best places in Nepal to spot the Royal Bengal Tiger. This vast expanse of jungle and grassland is also home to wild elephants and the one-horned rhinoceros.",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1601758176333-8903c74c1f96?q=80&w=2070"
+    ],
+    "province": "Lumbini Province",
+    "category": "Wildlife",
+    "keyAttractions": [
+      "Tiger Tracking",
+      "Jungle Safari",
+      "Karnali River Rafting",
+      "Tharu Cultural Museum"
+    ]
+  },
+  {
+    "name": "Tansen",
+    "slug": "tansen",
+    "shortDescription": "A charming Newari hilltop town with Himalayan views.",
+    "longDescription": "Tansen (also called Palpa) is a beautiful hilltop town in Western Nepal. Its cobbled streets, traditional Newari architecture, and rich history offer a glimpse into an older, quieter Nepal. From Shreenagar Hills, you can see a panoramic view of the Himalayas.",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1520038823157-c33b558831f2?q=80&w=2070"
+    ],
+    "province": "Lumbini Province",
+    "category": "Cultural",
+    "keyAttractions": [
+      "Tansen Durbar",
+      "Shreenagar Hills",
+      "Traditional Metalwork Shops",
+      "Rani Mahal (on Kali Gandaki river)"
+    ]
+  },
+  {
+    "name": "Rara Lake",
+    "slug": "rara-lake",
+    "shortDescription": "The largest and deepest freshwater lake in the Nepalese Himalayas.",
+    "longDescription": "Known as the 'Queen of Lakes,' Rara is a stunning, crystal-clear lake located in the remote Mugu district. It is the main feature of Rara National Park and offers an incredibly peaceful and pristine trekking experience, far from the main tourist trails.",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1623773229618-93daa80b06b0?q=80&w=2070"
+    ],
+    "province": "Karnali Province",
+    "category": "Trekking",
+    "keyAttractions": [
+      "Rara Lake",
+      "Rara National Park",
+      "Murma Top Viewpoint"
+    ]
+  },
+  {
+    "name": "Bandipur",
+    "slug": "bandipur",
+    "shortDescription": "A living museum of Newari culture on a picturesque hilltop.",
+    "longDescription": "Bandipur is a beautifully preserved hilltop village located between Kathmandu and Pokhara. This 'living museum of Newari culture' has a vehicle-free main street, traditional 18th-century architecture, and stunning sunrise views over the Himalayas.",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1572054620610-3f4ee2d_55d43?q=80&w=2070"
+    ],
+    "province": "Gandaki Province",
+    "category": "Cultural",
+    "keyAttractions": [
+      "Bandipur Main Bazaar",
+      "Thani Mai Temple (Sunrise)",
+      "Siddha Gufa (Cave)",
+      "Tundikhel"
+    ]
+  },
+  {
+    "name": "Khaptad National Park",
+    "slug": "khaptad-national-park",
+    "shortDescription": "A remote park of rolling green hills and spiritual ashrams.",
+    "longDescription": "Located in the far-western region, Khaptad National Park is a protected area of rolling green hills, moorlands, and dense forest. It is a unique and spiritual place, home to the ashram of the Khaptad Baba, a renowned holy man. It's perfect for trekking and meditation.",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1688173434691-37d354e2079f?q=80&w=2070"
+    ],
+    "province": "Sudurpashchim Province",
+    "category": "Trekking",
+    "keyAttractions": [
+      "Khaptad Baba Ashram",
+      "Khaptad Daha (Lake)",
+      "Rolling Meadows",
+      "Tribeni"
+    ]
+  },
+  {
+    "name": "Gosaikunda Lake",
+    "slug": "gosaikunda-lake",
+    "shortDescription": "A sacred alpine freshwater lake in the Langtang region.",
+    "longDescription": "Gosaikunda is an alpine freshwater oligotrophic lake in Nepal's Langtang National Park, located at an altitude of 4,380 m (14,370 ft). The lake is a major religious site for Hindus, who believe it was created by the god Shiva, and it's a popular stop on the Dhunche-Gosaikunda trek.",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1604940500627-c23abc2839c0?q=80&w=2070"
+    ],
+    "province": "Bagmati Province",
+    "category": "Trekking",
+    "keyAttractions": [
+      "Gosaikunda Lake",
+      "Langtang National Park",
+      "Surya Kunda",
+      "Lauribina Pass"
+    ]
+  },
+  {
+    "name": "Upper Dolpo",
+    "slug": "upper-dolpo",
+    "shortDescription": "A remote, high-altitude region with ancient Tibetan Bon culture.",
+    "longDescription": "Upper Dolpo is one of the most remote and sparsely populated regions in Nepal, situated high on the Tibetan plateau. This restricted area offers a stark, beautiful landscape and a chance to experience the ancient Bon religion, which predates Tibetan Buddhism. It's an expedition for serious trekkers.",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1589182373726-E4f64b96e0ab?q=80&w=2070"
+    ],
+    "province": "Karnali Province",
+    "category": "Trekking",
+    "keyAttractions": [
+      "Shey Phoksundo Lake",
+      "Shey Gompa",
+      "Ancient Bon Monasteries",
+      "Crystal Mountain"
+    ]
+  },
+  {
+    "name": "Phewa Lake",
+    "slug": "phewa-lake",
+    "shortDescription": "A scenic freshwater lake offering boating and stunning Himalayan views.",
+    "longDescription": "Phewa Lake, the second-largest lake in Nepal, is the heart of Pokhara. It is famous for its peaceful blue waters that mirror the Annapurna and Machhapuchhre ranges. The Tal Barahi Temple sits on a small island in the middle of the lake, accessible by boat. It’s one of Pokhara’s most iconic spots for sunrise, sunset, and relaxation.",
+    "imageUrls": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Phewa_lake%2C_Pokhara.jpg/1920px-Phewa_lake%2C_Pokhara.jpg"
+    ],
+    "province": "Gandaki Province",
+    "category": "Natural",
+    "keyAttractions": [
+      "Tal Barahi Temple",
+      "Lakeside Market",
+      "Boating and Kayaking"
+    ]
+  },
+  {
+    "name": "Davis Falls",
+    "slug": "davis-falls",
+    "shortDescription": "A stunning underground waterfall disappearing into a natural tunnel.",
+    "longDescription": "Davis Falls, also known as Patale Chhango, is a powerful waterfall that plunges into an underground tunnel, creating a mesmerizing natural wonder. It was named after a tragic incident involving a tourist named Davis. Visitors can enjoy viewpoints, bridges, and local craft stalls nearby.",
+    "imageUrls": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Davis_Falls1.jpg/1920px-Davis_Falls1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/19/Davis_Falls_and_the_visitors.jpg"
+    ],
+    "province": "Gandaki Province",
+    "category": "Natural",
+    "keyAttractions": [
+      "Underground Water Tunnel",
+      "Observation Point",
+      "Nearby Gupteshwor Mahadev Cave"
+    ]
+  },
+  {
+    "name": "World Peace Pagoda",
+    "slug": "world-peace-pagoda",
+    "shortDescription": "A white stupa offering panoramic views of Pokhara and the Himalayas.",
+    "longDescription": "The World Peace Pagoda, located on Anadu Hill, is a Buddhist monument symbolizing peace and harmony. It provides a breathtaking 360° view of Pokhara, Phewa Lake, and snow-capped peaks. Visitors can reach it by hiking, cycling, or boating across Phewa Lake.",
+    "imageUrls": [
+      "https://upload.wikimedia.org/wikipedia/commons/c/c1/Pokhara-Shanti-Stupa.jpg"
+    ],
+    "province": "Gandaki Province",
+    "category": "Religious / Scenic",
+    "keyAttractions": [
+      "Viewpoint for Annapurna Range",
+      "Meditation Area",
+      "Short Hiking Trail"
+    ]
+  },
+  {
+    "name": "Sarangkot Viewpoint",
+    "slug": "sarangkot-viewpoint",
+    "shortDescription": "The best sunrise viewpoint over the Himalayas and Pokhara Valley.",
+    "longDescription": "Sarangkot is one of the most popular viewpoints in Nepal, offering spectacular sunrise views over the Annapurna and Dhaulagiri ranges. It’s also a hotspot for paragliding and photography. The area has several small cafés and lodges for travelers to rest.",
+    "imageUrls": [
+      "https://upload.wikimedia.org/wikipedia/commons/0/06/Pokhara%2C_Annapurna_Himal%2C_Machhapuchchhre%2C_Nepal.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/df/Pokhara%2C_View_of_Pokhara_Valley%2C_Nepal.jpg"
+    ],
+    "province": "Gandaki Province",
+    "category": "Adventure / Scenic",
+    "keyAttractions": [
+      "Sunrise Viewpoint",
+      "Paragliding Launch Site",
+      "Annapurna Range View"
+    ]
+  },
+  {
+    "name": "Gupteshwor Mahadev Cave",
+    "slug": "gupteshwor-mahadev-cave",
+    "shortDescription": "A sacred cave temple dedicated to Lord Shiva.",
+    "longDescription": "Gupteshwor Mahadev Cave lies opposite Davis Falls and houses a holy shrine of Lord Shiva. The cave extends deep underground, with natural limestone formations and a waterfall view at the end. It’s one of the most spiritual sites in Pokhara.",
+    "imageUrls": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/In_Gupteshwor_Cave.jpg/1920px-In_Gupteshwor_Cave.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Gupteshwor_Cave_%2C_Pokhara.jpg/1920px-Gupteshwor_Cave_%2C_Pokhara.jpg"
+    ],
+    "province": "Gandaki Province",
+    "category": "Religious / Natural",
+    "keyAttractions": [
+      "Shiva Shrine",
+      "Waterfall Viewpoint",
+      "Limestone Formations"
+    ]
+  },
+  {
+    "name": "Bindhyabasini Temple",
+    "slug": "bindhyabasini-temple",
+    "shortDescription": "One of Pokhara’s oldest temples dedicated to Goddess Bhagwati.",
+    "longDescription": "Bindhyabasini Temple sits atop a small hill, offering peaceful surroundings and panoramic views of Pokhara. The temple is an important Hindu pilgrimage site, especially during Dashain. Locals visit daily for prayers and rituals.",
+    "imageUrls": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/37/Bindabasini_temple_pokhara.JPG"
+    ],
+    "province": "Gandaki Province",
+    "category": "Religious",
+    "keyAttractions": [
+      "Hindu Rituals",
+      "Viewpoint of Pokhara Valley",
+      "Morning Aarti Ceremony"
+    ]
+  },
+  {
+    "name": "Mahendra Cave",
+    "slug": "mahendra-cave",
+    "shortDescription": "A large limestone cave known for its natural formations.",
+    "longDescription": "Mahendra Cave, named after King Mahendra Bir Bikram Shah, is a natural wonder filled with stalactites and stalagmites. It’s located in Batulechaur and is a popular exploration spot for both tourists and locals.",
+    "imageUrls": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Mahendra_Cave.JPG/1280px-Mahendra_Cave.JPG"
+    ],
+    "province": "Gandaki Province",
+    "category": "Natural",
+    "keyAttractions": [
+      "Limestone Formations",
+      "Shiva Statue Inside Cave",
+      "Nearby Bat Cave"
+    ]
+  },
+  {
+    "name": "Bat Cave (Chamere Gufa)",
+    "slug": "bat-cave",
+    "shortDescription": "A unique cave inhabited by thousands of bats.",
+    "longDescription": "The Bat Cave, locally known as Chamere Gufa, offers a thrilling experience for visitors. The cave is dark, narrow, and filled with bats hanging from the ceiling. The exit is small, believed to be passable only by the “pure-hearted.”",
+    "imageUrls": [
+      "https://upload.wikimedia.org/wikipedia/commons/4/48/Chamere_Gufa%28cave%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Bars_over_cave.jpg/1280px-Bars_over_cave.jpg"
+    ],
+    "province": "Gandaki Province",
+    "category": "Adventure / Natural",
+    "keyAttractions": [
+      "Bat Colonies",
+      "Natural Cave Formations",
+      "Adventure Exit Route"
+    ]
+  },
+  {
+    "name": "International Mountain Museum",
+    "slug": "international-mountain-museum",
+    "shortDescription": "A museum showcasing Nepal’s mountain culture, history, and climbers.",
+    "longDescription": "The International Mountain Museum highlights Nepal’s proud mountaineering legacy and Himalayan geography. It includes exhibits about famous climbers, Sherpa culture, mountain ecology, and artifacts from expeditions to Everest and other peaks. The museum is a must-visit for those interested in mountain exploration.",
+    "imageUrls": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Monument_international_mountain_museum.jpg/1280px-Monument_international_mountain_museum.jpg"
+    ],
+    "province": "Gandaki Province",
+    "category": "Cultural / Educational",
+    "keyAttractions": [
+      "Everest Exhibition Hall",
+      "Sherpa Lifestyle Gallery",
+      "Outdoor Climbing Wall"
+    ]
+  },
+  {
+    "name": "Begnas Lake",
+    "slug": "begnas-lake",
+    "shortDescription": "A peaceful lake ideal for boating, fishing, and relaxation.",
+    "longDescription": "Begnas Lake, located 15 km east of Pokhara, is a serene natural lake surrounded by green hills and villages. It’s quieter than Phewa Lake, making it perfect for peaceful boat rides and picnics. Local fish farms and scenic resorts around the lake enhance its charm.",
+    "imageUrls": [
+      "https://upload.wikimedia.org/wikipedia/commons/0/08/Begnas_Lake_Pokhara.jpg"
+    ],
+    "province": "Gandaki Province",
+    "category": "Natural",
+    "keyAttractions": [
+      "Boating and Fishing",
+      "Lakeside Resorts",
+      "Village Hiking Trails"
+    ]
+  },
+  {
+    "name": "Annapurna Base Camp Trek Start Point",
+    "slug": "annapurna-base-camp-start-point",
+    "shortDescription": "The starting gateway for one of Nepal’s most famous treks.",
+    "longDescription": "Pokhara serves as the main entry point for the Annapurna Base Camp (ABC) trek, which offers a combination of mountain scenery, cultural villages, and adventure. Trekkers usually begin from Nayapul or Kande.",
+    "imageUrls": [
+      "https://www.adventurevisiontreks.com/blog/wp-content/uploads/2025/05/tea-house-in-the-machapuchare-scaled.jpg",
+      "https://www.adventurevisiontreks.com/blog/wp-content/uploads/2023/08/annapurna-base-camp-trek-with-helicopter-fly-out-jpg.webp"
+    ],
+    "province": "Gandaki Province",
+    "category": "Adventure / Trekking",
+    "keyAttractions": [
+      "Trekking Routes",
+      "Tea Houses and Lodges",
+      "Annapurna Range Views"
+    ]
+  },
+  {
+    "name": "Tal Barahi Temple",
+    "slug": "tal-barahi-temple",
+    "shortDescription": "A small temple on an island in the middle of Phewa Lake.",
+    "longDescription": "Tal Barahi Temple is one of the most visited religious sites in Pokhara. Located on a small island in Phewa Lake, it is dedicated to Goddess Barahi and is accessible only by boat. Visitors often enjoy a short boat ride combined with temple worship.",
+    "imageUrls": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Barahi_Temple_%289191444126%29_%28cropped%29.jpg/1280px-Barahi_Temple_%289191444126%29_%28cropped%29.jpg"
+    ],
+    "province": "Gandaki Province",
+    "category": "Religious",
+    "keyAttractions": [
+      "Island Temple",
+      "Boating to Temple",
+      "Lakeside Scenery"
+    ]
+  },
+  {
+    "name": "Gurkha Memorial Museum",
+    "slug": "gurkha-memorial-museum",
+    "shortDescription": "A museum honoring the bravery of Gurkha soldiers.",
+    "longDescription": "The Gurkha Memorial Museum in Pokhara displays the proud history and achievements of Nepalese Gurkha soldiers who served globally. It features uniforms, medals, photographs, and artifacts from different wars.",
+    "imageUrls": [
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/21/4d/93/photo3jpg.jpg?w=1400&h=-1&s=1"
+    ],
+    "province": "Gandaki Province",
+    "category": "Historical / Educational",
+    "keyAttractions": [
+      "War Artifacts",
+      "Soldier Portraits",
+      "Historical Documents"
+    ]
+  },
+  {
+    "name": "Kanyam Tea Garden",
+    "slug": "kanyam-tea-garden",
+    "shortDescription": "A scenic tea estate known as the “Queen of the Eastern Hills.”",
+    "longDescription": "Kanyam Tea Garden is one of Ilam’s most iconic destinations, famous for its rolling green tea hills and cool mountain breeze. Tourists visit to walk through tea plantations, take photos, and enjoy the tranquil environment. The area is especially beautiful during sunrise and sunset, attracting photographers and couples alike.",
+    "imageUrls": [
+      "https://upload.wikimedia.org/wikipedia/commons/9/99/Kanyam%2C_Ilam_-_best_location_in_Ilam_for_Nature_Lovers_%28By_Saroj_Pandey%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/75/Kanyam_ilam.jpg"
+    ],
+    "province": "Koshi Province",
+    "category": "Natural / Scenic",
+    "keyAttractions": [
+      "Tea Plantations",
+      "Viewpoints and Sunrise Spots",
+      "Tea Factory Visit"
+    ]
+  },
+  {
+    "name": "Antu Danda",
+    "slug": "antu-danda",
+    "shortDescription": "A hilltop viewpoint famous for sunrise views over Kanchenjunga.",
+    "longDescription": "Antu Danda, located near the Nepal–India border, is a must-visit viewpoint in Ilam offering a mesmerizing sunrise over the eastern Himalayas, including Kanchenjunga. It’s also home to Antu Pokhari and small homestays that give visitors a taste of local life.",
+    "imageUrls": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/First_rays_of_the_sun.jpg/1280px-First_rays_of_the_sun.jpg"
+    ],
+    "province": "Koshi Province",
+    "category": "Natural / Scenic",
+    "keyAttractions": [
+      "Sunrise Viewpoint",
+      "Antu Pokhari (Pond)",
+      "Local Homestays"
+    ]
+  },
+  {
+    "name": "Mai Pokhari",
+    "slug": "mai-pokhari",
+    "shortDescription": "A sacred lake and a Ramsar-listed wetland surrounded by forest.",
+    "longDescription": "Mai Pokhari, located about 15 km north of Ilam Bazaar, is a holy lake surrounded by dense forest. It is recognized as a Ramsar Site due to its rich biodiversity and cultural significance. The lake is revered by Hindus and Buddhists and is home to many bird species and orchids.",
+    "imageUrls": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Mai_pokhari_ilam_10.jpg/1280px-Mai_pokhari_ilam_10.jpg"
+    ],
+    "province": "Koshi Province",
+    "category": "Natural / Religious",
+    "keyAttractions": [
+      "Sacred Lake",
+      "Bird Watching",
+      "Forest Trail"
+    ]
+  },
+  {
+    "name": "Sandakpur",
+    "slug": "sandakpur",
+    "shortDescription": "A high-altitude destination offering 360° views of Mt. Everest, Kanchenjunga, and Makalu.",
+    "longDescription": "Sandakpur, located near the Nepal-India border in Ilam, is the highest point in the district, standing at 3,636 meters. It offers one of the rare panoramic views of the world’s five highest peaks. The region is ideal for nature lovers, birdwatchers, and trekkers who seek offbeat Himalayan experiences.",
+    "imageUrls": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Sandakpur_top_view.jpg/1280px-Sandakpur_top_view.jpg"
+    ],
+    "province": "Koshi Province",
+    "category": "Trekking / Scenic",
+    "keyAttractions": [
+      "Himalayan Viewpoints",
+      "Rhododendron Forests",
+      "Trekking and Homestays"
+    ]
+  },
+  {
+    "name": "Todke Falls (Todke Jharna)",
+    "slug": "todke-jharna",
+    "shortDescription": "One of Nepal’s tallest waterfalls hidden amidst Ilam’s lush hills.",
+    "longDescription": "Todke Jharna, located in Maimajhuwa of Ilam District, is among the highest waterfalls in Nepal, cascading down approximately 85 meters through dense forests and rocky cliffs. It offers breathtaking natural beauty and a refreshing escape for travelers who enjoy offbeat and less crowded destinations. The area around the falls is surrounded by tea gardens, rhododendron forests, and peaceful villages, making it ideal for short hikes and nature photography. Although the journey to reach Todke is challenging, the view and sound of the massive waterfall make it absolutely worth it.",
+    "imageUrls": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Todke_falls_7.jpg/800px-Todke_falls_7.jpg"
+    ],
+    "province": "Koshi Province",
+    "category": "Natural / Adventure",
+    "keyAttractions": [
+      "Massive 85-meter-high waterfall",
+      "Scenic hiking trail through forest and tea gardens",
+      "Local homestays in nearby villages",
+      "Photography and picnic spots",
+      "Peaceful and less commercialized environment"
+    ]
+  },
+  {
+    "name": "Gorkha Durbar",
+    "slug": "gorkha-durbar",
+    "shortDescription": "The historic palace of King Prithvi Narayan Shah, unifying Nepal’s kingdom.",
+    "longDescription": "Gorkha Durbar is a magnificent hilltop palace-fort complex that symbolizes Nepal’s unification history. Built in the 17th century, it served as the royal palace of King Prithvi Narayan Shah, the founder of modern Nepal. Visitors can explore the ancient architecture, temples, and panoramic views of the Himalayan range and Gorkha Bazaar.",
+    "imageUrls": [
+      "https://upload.wikimedia.org/wikipedia/commons/0/09/Gorkha_Palace_durbar.jpg"
+    ],
+    "province": "Gandaki Province",
+    "category": "Historical / Cultural",
+    "keyAttractions": [
+      "Royal Palace",
+      "Kalika Temple",
+      "Panoramic Mountain View"
+    ]
+  },
+  {
+    "name": "Manakamana Temple",
+    "slug": "manakamana-temple",
+    "shortDescription": "A famous Hindu temple believed to grant wishes, accessible by cable car.",
+    "longDescription": "Manakamana Temple, dedicated to Goddess Bhagwati, is one of Nepal’s most visited religious sites. Devotees believe that wishes made here are fulfilled. The temple sits atop a hill and offers a scenic cable car ride over the Trishuli River valley. Pilgrims and tourists visit for both spiritual blessings and breathtaking views.",
+    "imageUrls": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Gorkha_Manakamana_Temple_%28cropped%29.jpg/1280px-Gorkha_Manakamana_Temple_%28cropped%29.jpg"
+    ],
+    "province": "Gandaki Province",
+    "category": "Religious / Cultural",
+    "keyAttractions": [
+      "Cable Car Ride",
+      "Temple Darshan",
+      "Mountain and River Views"
+    ]
+  },
+  {
+    "name": "Barpak Village",
+    "slug": "barpak-village",
+    "shortDescription": "A scenic Gurung village and epicenter of the 2015 Nepal earthquake.",
+    "longDescription": "Barpak is a beautiful hillside Gurung village known for its traditional stone houses, warm hospitality, and magnificent views of Mount Manaslu. Despite being the epicenter of the 2015 earthquake, Barpak has been beautifully rebuilt and now represents resilience and community spirit. It’s also a gateway to several trekking routes.",
+    "imageUrls": [
+      "https://barpak.org/assets/img/gallery/1.jpg",
+      "https://barpak.org/assets/img/gallery/2.jpg"
+    ],
+    "province": "Gandaki Province",
+    "category": "Cultural / Scenic",
+    "keyAttractions": [
+      "Gurung Culture and Homestays",
+      "Mountain Views",
+      "Earthquake Memorial"
+    ]
+  },
+  {
+    "name": "Bhedetar",
+    "slug": "bhedetar",
+    "shortDescription": "A scenic hill station above Dharan with Himalayan views.",
+    "longDescription": "Bhedetar is a cool hilltop getaway 16 km from Dharan, famous for misty weather and panoramic mountain views.",
+    "imageUrls": [
+      "https://wellnepaltreks.com/wp-content/uploads/2019/03/bhedetar.jpg"
+    ],
+    "province": "Koshi Province",
+    "category": "Scenic / Hill Station",
+    "keyAttractions": [
+      "Charles Point View Tower",
+      "Local Homestays",
+      "Dharan View Spot"
+    ]
+  },
+  {
+    "name": "Dantakali Temple",
+    "slug": "dantakali-temple",
+    "shortDescription": "A sacred temple dedicated to Goddess Kali.",
+    "longDescription": "Located in Bijaypur Hill, Dantakali Temple is a revered Hindu site attracting pilgrims during Dashain.",
+    "imageUrls": [
+      "https.img1.wsimg.com/isteam/ip/1b64dfb3-958b-4662-95c5-ea22dc947cfa/dantkali%20temple.jpg"
+    ],
+    "province": "Koshi Province",
+    "category": "Religious",
+    "keyAttractions": [
+      "Main Shrine",
+      "Dashain Fair",
+      "Hilltop View"
+    ]
+  },
+  {
+    "name": "Namaste Falls",
+    "slug": "namaste-falls",
+    "shortDescription": "A waterfall shaped like folded hands.",
+    "longDescription": "Namaste Falls near Bhedetar is known for its natural beauty and refreshing hiking trails.",
+    "imageUrls": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/54/Namaste_Waterfall.JPG"
+    ],
+    "province": "Koshi Province",
+    "category": "Natural / Waterfall",
+    "keyAttractions": [
+      "Main Waterfall",
+      "Hiking Trail",
+      "Local Tea Shops"
+    ]
+  },
+  {
+    "name": "Buddha Subba Temple",
+    "slug": "buddha-subba-temple",
+    "shortDescription": "A spiritual site believed to bring good fortune.",
+    "longDescription": "Buddha Subba Temple is famous for wish-making rituals and bamboo inscriptions by couples.",
+    "imageUrls": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/80/Budhasubba.jpg"
+    ],
+    "province": "Koshi Province",
+    "category": "Religious / Cultural",
+    "keyAttractions": [
+      "Temple Shrine",
+      "Wish Bamboo",
+      "Local Fair"
+    ]
+  },
+  {
+    "name": "Pindeshwor Temple",
+    "slug": "pindeshwor-temple",
+    "shortDescription": "A sacred Shiva temple near Bijaypur.",
+    "longDescription": "Pindeshwor Temple is visited by thousands of devotees during Shrawan month for holy rituals.",
+    "imageUrls": [
+      "https.travelsetu.com/apps/uploads/new_destinations_photos/destination/2024/06/27/1dbd9b058a26e9552cc338ee021ce9a6_1000x1000.jpeg"
+    ],
+    "province": "Koshi Province",
+    "category": "Religious",
+    "keyAttractions": [
+      "Shiva Shrine",
+      "Festival Crowd"
+    ]
+  },
+  {
+    "name": "Ghopa Camp",
+    "slug": "ghopa-camp",
+    "shortDescription": "A landmark Gurkha settlement and heritage area.",
+    "longDescription": "Ghopa Camp represents Dharan’s Gurkha legacy and hosts BP Koirala Institute of Health Sciences.",
+    "imageUrls": [
+      "https.nepaltourismhub.com/wp-content/uploads/2019/12/bpkihs-cb.jpg"
+    ],
+    "province": "Koshi Province",
+    "category": "Historical / Cultural",
+    "keyAttractions": [
+      "Gurkha Museum",
+      "BP Koirala Hospital"
+    ]
+  },
+  {
+    "name": "Panchakanya Temple",
+    "slug": "panchakanya-temple",
+    "shortDescription": "A temple devoted to five goddesses.",
+    "longDescription": "Panchakanya Temple is a serene religious site surrounded by green hills.",
+    "imageUrls": [
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/ee/8b/af/panchakanya-temple.jpg?w=900&h=500&s=1"
+    ],
+    "province": "Koshi Province",
+    "category": "Religious",
+    "keyAttractions": [
+      "Temple Area",
+      "Festival Events"
+    ]
+  },
+  {
+    "name": "Dharan Clock Tower",
+    "slug": "dharan-clock-tower",
+    "shortDescription": "The central landmark of Dharan city.",
+    "longDescription": "Dharan Clock Tower stands at the heart of the city, surrounded by shops and restaurants.",
+    "imageUrls": [
+      "https.encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYSZQgFACobCKAwVmiakWdK12jmfpjuBImJw&s"
+    ],
+    "province": "Koshi Province",
+    "category": "Urban / Cultural",
+    "keyAttractions": [
+      "City Plaza",
+      "Local Market"
+    ]
+  },
+  {
+    "name": "Kali Temple (Dhulikhel)",
+    "slug": "kali-temple-dhulikhel",
+    "shortDescription": "A hilltop temple with Himalayan sunrise views.",
+    "longDescription": "Dhulikhel’s Kali Temple offers both religious peace and stunning mountain panoramas.",
+    "imageUrls": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Kalidevi_Temple%E2%80%93Dhulikhel_%E2%80%93_02.jpg/2560px-Kalidevi_Temple%E2%80%93Dhulikhel_%E2%80%93_02.jpg"
+    ],
+    "province": "Bagmati Province",
+    "category": "Religious / Scenic",
+    "keyAttractions": [
+      "Viewpoint Trail",
+      "Sunrise Spot"
+    ]
+  },
+  {
+    "name": "Namobuddha",
+    "slug": "namobuddha",
+    "shortDescription": "A sacred Buddhist pilgrimage site.",
+    "longDescription": "Namobuddha Monastery is known for the Buddha’s self-sacrifice legend and peaceful atmosphere.",
+    "imageUrls": [
+      "https.encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXWOI1iRyEMwA28hqAfz5250OD24-U6tz-nA&s"
+    ],
+    "province": "Bagmati Province",
+    "category": "Religious / Cultural",
+    "keyAttractions": [
+      "Thrangu Monastery",
+      "Stupa",
+      "Local Trails"
+    ]
+  },
+  {
+    "name": "Panauti",
+    "slug": "panauti",
+    "shortDescription": "An ancient Newar town rich in heritage.",
+    "longDescription": "Panauti preserves traditional Newar architecture and hosts the famous Makar Mela festival.",
+    "imageUrls": [
+      "https://c8.alamy.com/comp/M01AK2/panauti-nepal-asia-M01AK2.jpg"
+    ],
+    "province": "Bagmati Province",
+    "category": "Cultural / Historical",
+    "keyAttractions": [
+      "Indreshwor Temple",
+      "Old Town",
+      "Museum"
+    ]
+  },
+  {
+    "name": "Thousand Steps Trail",
+    "slug": "thousand-steps",
+    "shortDescription": "A popular hiking route to the Kali Temple.",
+    "longDescription": "The Thousand Steps Trail provides a scenic uphill walk to Dhulikhel’s Kali Temple.",
+    "imageUrls": [
+      "https://i.ytimg.com/vi/EVkCzqN1vfI/maxresdefault.jpg"
+    ],
+    "province": "Bagmati Province",
+    "category": "Adventure / Hiking",
+    "keyAttractions": [
+      "Viewpoints",
+      "Rest Stops"
+    ]
+  },
+  {
+    "name": "Sunkoshi Bridge",
+    "slug": "sunkoshi-bridge",
+    "shortDescription": "A suspension bridge over the Sunkoshi River.",
+    "longDescription": "This bridge connects Dhulikhel with nearby rural areas and offers scenic river views.",
+    "imageUrls": [
+      "https.nepaltraveller.com/laravel-filemanager/photos/shares/Sunkoshi.jpeg"
+    ],
+    "province": "Bagmati Province",
+    "category": "Scenic / Infrastructure",
+    "keyAttractions": [
+      "Bridge Walk",
+      "River View"
+    ]
+  },
+  {
+    "name": "Kavre View Tower",
+    "slug": "kavre-view-tower",
+    "shortDescription": "A viewpoint overlooking the Kavre Valley.",
+    "longDescription": "Kavre View Tower is known for wide valley and mountain vistas from its top deck.",
+    "imageUrls": [
+      "https.i.ytimg.com/vi/F_A4k0B9mUw/maxresdefault.jpg"
+    ],
+    "province": "Bagmati Province",
+    "category": "Scenic / Photography",
+    "keyAttractions": [
+      "Observation Deck",
+      "Sunset View"
+    ]
+  },
+  {
+    "name": "Baglung Kalika Temple",
+    "slug": "baglung-kalika",
+    "shortDescription": "A powerful Hindu temple on a hilltop.",
+    "longDescription": "Baglung Kalika is one of Nepal’s most sacred temples dedicated to Goddess Kali.",
+    "imageUrls": [
+      "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/13/23/09/28.jpg"
+    ],
+    "province": "Gandaki Province",
+    "category": "Religious",
+    "keyAttractions": [
+      "Main Temple",
+      "Forest Trail"
+    ]
+  },
+  {
+    "name": "Dhorpatan Hunting Reserve",
+    "slug": "dhorpatan-reserve",
+    "shortDescription": "Nepal’s only hunting reserve with rich biodiversity.",
+    "longDescription": "Dhorpatan is famous for blue sheep, wild boar, and alpine landscapes.",
+    "imageUrls": [
+      "https://himalayan-masters.com/wp-content/uploads/2023/10/Dhorpatan-Hunting-Reserve-Tour.webp"
+    ],
+    "province": "Gandaki Province",
+    "category": "Natural / Wildlife",
+    "keyAttractions": [
+      "Wildlife Safari",
+      "Trekking Routes"
+    ]
+  },
+  {
+    "name": "Panchakot Hill",
+    "slug": "panchakot-hill",
+    "shortDescription": "A viewpoint known for its panoramic scenery.",
+    "longDescription": "Panchakot Hill provides stunning mountain views and cultural significance for locals.",
+    "imageUrls": [
+      "https://live.staticflickr.com/3668/9484921463_d499fd8330_b.jpg"
+    ],
+    "province": "Gandaki Province",
+    "category": "Scenic / Cultural",
+    "keyAttractions": [
+      "Sunrise View",
+      "Small Temples"
+    ]
+  },
+  {
+    "name": "Kusma-Baglung Bridge",
+    "slug": "kusma-baglung-bridge",
+    "shortDescription": "One of Nepal’s longest suspension bridges.",
+    "longDescription": "The Kusma-Baglung Bridge connects two valleys and is popular for adventure lovers.",
+    "imageUrls": [
+      "https://www.highestbridges.com/wiki/images/6/6d/KushmaBungyConstView.jpg"
+    ],
+    "province": "Gandaki Province",
+    "category": "Adventure / Infrastructure",
+    "keyAttractions": [
+      "Suspension Bridge",
+      "Photography Spot"
+    ]
+  },
+  {
+    "name": "Baglung Bazaar",
+    "slug": "baglung-bazaar",
+    "shortDescription": "The commercial and cultural center of Baglung.",
+    "longDescription": "Baglung Bazaar is a vibrant town with traditional markets and local eateries.",
+    "imageUrls": [
+      "https://imagepasal.com/cache/5ef6dea80958fd89641f59d13df6bbb0-v11.jpg"
+    ],
+    "province": "Gandaki Province",
+    "category": "Cultural / Urban",
+    "keyAttractions": [
+      "Local Market",
+      "Street Food"
+    ]
+  },
+  {
+    "name": "Kaligandaki Corridor",
+    "slug": "kaligandaki-corridor",
+    "shortDescription": "A major trekking and trade route through Baglung.",
+    "longDescription": "The Kaligandaki Corridor offers scenic drives and connects the region to Mustang.",
+    "imageUrls": [
+      "https.assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2017/miscellaneous/Kaligandaki-Koridor-of-Gulmi-Ridi-09072017080722.jpg&w=900&height=601"
+    ],
+    "province": "Gandaki Province",
+    "category": "Adventure / Scenic",
+    "keyAttractions": [
+      "River View",
+      "Trekking Path"
+    ]
+  }
+]

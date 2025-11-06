@@ -1,0 +1,216 @@
+[
+  {
+    "name": "Annapurna Base Camp Trek",
+    "slug": "annapurna-base-camp-trek",
+    "duration": "10-12 Days",
+    "category": "Trekking",
+    "description": "One of the most popular treks in the world, offering stunning close-up views of the Annapurna mountain range, Machhapuchhre, and Hiunchuli.",
+    "imageUrl": "https://images.unsplash.com/photo-1584097010433-24B830b5d1e4?q=80&w=2070",
+    "days": [
+      {
+        "dayNumber": 1,
+        "title": "Arrival in Pokhara",
+        "description": "Arrive in Pokhara, check into your hotel, and make final preparations for the trek. Enjoy a boat ride on Phewa Lake.",
+        "destination": { "slug": "phewa-lake" }
+      },
+      {
+        "dayNumber": 2,
+        "title": "Drive to Nayapul & Trek to Ghandruk",
+        "description": "A scenic drive to Nayapul, followed by a trek to the beautiful Gurung village of Ghandruk. (Approx. 5-6 hours).",
+        "destination": null
+      },
+      {
+        "dayNumber": 3,
+        "title": "Trek to Chhomrong",
+        "description": "Trek through lush forests and cross the Kimrong Khola to reach Chhomrong, a village with stunning views of Annapurna South.",
+        "destination": null
+      },
+      {
+        "dayNumber": 4,
+        "title": "Trek to Dovan",
+        "description": "Descend the Chhomrong stone steps and then climb up to Sinuwa. Continue through a dense bamboo forest to Dovan.",
+        "destination": null
+      },
+      {
+        "dayNumber": 5,
+        "title": "Trek to Machhapuchhre Base Camp (MBC)",
+        "description": "Ascend through the Modi Khola valley, passing the Hinku Cave. The valley widens as you reach MBC.",
+        "destination": null
+      },
+      {
+        "dayNumber": 6,
+        "title": "Trek to Annapurna Base Camp (ABC)",
+        "description": "A short, 2-hour trek to ABC (4,130m). Spend the day acclimatizing and soaking in the 360-degree panoramic views.",
+        "destination": { "slug": "annapurna-base-camp-start-point" }
+      },
+      {
+        "dayNumber": 7,
+        "title": "Trek down to Bamboo",
+        "description": "Wake up for a stunning sunrise over the Annapurnas, then begin your descent back down to the village of Bamboo.",
+        "destination": null
+      },
+      {
+        "dayNumber": 8,
+        "title": "Trek to Jhinu Danda (Hot Springs)",
+        "description": "Continue descending to Chhomrong and then down to Jhinu Danda. Relax in the natural hot springs by the river.",
+        "destination": null
+      },
+      {
+        "dayNumber": 9,
+        "title": "Trek to Nayapul & Drive to Pokhara",
+        "description": "A final short trek to Nayapul, then drive back to Pokhara to celebrate the completion of your trek.",
+        "destination": { "slug": "phewa-lake" }
+      }
+    ]
+  },
+  {
+    "name": "Kathmandu Valley Cultural Tour",
+    "slug": "kathmandu-valley-tour",
+    "duration": "4 Days",
+    "category": "Cultural",
+    "description": "Explore the UNESCO World Heritage Sites of the Kathmandu Valley, discovering ancient temples, palaces, and living traditions.",
+    "imageUrl": "https://images.unsplash.com/photo-1596884522237-6d346333e61e?q=80&w=1974",
+    "days": [
+      {
+        "dayNumber": 1,
+        "title": "Arrival & Swayambhunath",
+        "description": "Arrive in Kathmandu and visit Swayambhunath (Monkey Temple) for a panoramic sunset view of the city.",
+        "destination": { "slug": "kathmandu" }
+      },
+      {
+        "dayNumber": 2,
+        "title": "Pashupatinath & Boudhanath",
+        "description": "Witness morning rituals at the sacred Pashupatinath Temple, then visit the massive, peaceful Boudhanath Stupa.",
+        "destination": { "slug": "kathmandu" }
+      },
+      {
+        "dayNumber": 3,
+        "title": "Patan & Kathmandu Durbar Squares",
+        "description": "Explore the ancient royal palaces and temples of Patan Durbar Square and Kathmandu Durbar Square.",
+        "destination": { "slug": "kathmandu" }
+      },
+      {
+        "dayNumber": 4,
+        "title": "Bhaktapur & Departure",
+        "description": "Visit the beautifully preserved medieval city of Bhaktapur Durbar Square before departing.",
+        "destination": { "slug": "kathmandu" }
+      }
+    ]
+  },
+  {
+    "name": "Everest Base Camp Trek",
+    "slug": "everest-base-camp-trek",
+    "duration": "14 Days",
+    "category": "Trekking (Everest)",
+    "description": "The mother of all treks. Follow in the footsteps of legends to the base of the world's tallest peak.",
+    "imageUrl": "https://images.unsplash.com/photo-1589182373726-E4f64b96e0ab?q=80&w=2070",
+    "days": []
+  },
+  {
+    "name": "Manaslu Circuit Trek",
+    "slug": "manaslu-circuit-trek",
+    "duration": "16 Days",
+    "category": "Trekking (Manaslu)",
+    "description": "A remote and stunning trek around the world's 8th highest mountain, crossing the Larkya La pass.",
+    "imageUrl": "https://images.unsplash.com/photo-1604940500627-c23abc2839c0?q=80&w=2070",
+    "days": []
+  },
+  {
+    "name": "Ghorepani Poon Hill Trek",
+    "slug": "ghorepani-poon-hill-trek",
+    "duration": "5 Days",
+    "category": "Trekking (Annapurna)",
+    "description": "A short and relatively easy trek with one of the most famous sunrise views over the Annapurna range.",
+    "imageUrl": "https://images.unsplash.com/photo-1604359306915-189684c3fe48?q=80&w=2072",
+    "days": []
+  },
+  {
+    "name": "Langtang Valley Trek",
+    "slug": "langtang-valley-trek",
+    "duration": "8 Days",
+    "category": "Trekking (Langtang)",
+    "description": "A beautiful trek through pine forests and rhododendron fields, close to Kathmandu, with rich Tamang culture.",
+    "imageUrl": "https://images.unsplash.com/photo-1589182373726-E4f64b96e0ab?q=80&w=2070",
+    "days": []
+  },
+  {
+    "name": "Everest Three Passes Trek",
+    "slug": "everest-three-passes-trek",
+    "duration": "18-20 Days",
+    "category": "Trekking",
+    "description": "The ultimate Everest experience, crossing three high passes: Renjo La, Cho La, and Kongma La. For experienced trekkers.",
+    "imageUrl": "https://images.unsplash.com/photo-1551632811-551714E10Cfa?q=80&w=2070",
+    "days": []
+  },
+  {
+    "name": "Gokyo Lakes Trek",
+    "slug": "gokyo-lakes-trek",
+    "duration": "10-12 Days",
+    "category": "Trekking",
+    "description": "A spectacular trek to the series of high-altitude emerald-green lakes in the Everest region, with an optional climb of Gokyo Ri.",
+    "imageUrl": "https://images.unsplash.com/photo-1596707323537-3c5e8a7d1a4e?q=80&w=2070",
+    "days": []
+  },
+  {
+    "name": "Kanchenjunga Base Camp Trek",
+    "slug": "kanchenjunga-base-camp-trek",
+    "duration": "20 Days",
+    "category": "Trekking (Kanchenjunga)",
+    "description": "A remote and challenging expedition to the base of the world's third-highest mountain in Eastern Nepal.",
+    "imageUrl": "https://images.unsplash.com/photo-1519922639102-a7c638210324?q=80&w=2070",
+    "days": []
+  },
+  {
+    "name": "Makalu Base Camp Trek",
+    "slug": "makalu-base-camp-trek",
+    "duration": "18 Days",
+    "category": "Trekking (Makalu)",
+    "description": "A strenuous trek into the remote Makalu Barun National Park, home to the world's fifth-highest mountain.",
+    "imageUrl": "https://images.unsplash.com/photo-1454496522488-7a8e488e8606?q=80&w=2070",
+    "days": []
+  },
+  {
+    "name": "Chisapani Nagarkot Trek",
+    "slug": "chisapani-nagarkot-trek",
+    "duration": "4 Days",
+    "category": "Short Trek (Kathmandu Valley)",
+    "description": "A popular short trek on the rim of the Kathmandu Valley, offering great sunrise views and a visit to Dhap Dam Lake.",
+    "imageUrl": "https://images.unsplash.com/photo-1554483452-68F5b1875323?q=80&w=2070",
+    "days": []
+  },
+  {
+    "name": "Nagarkot Dhulikhel Trekking",
+    "slug": "nagarkot-dhulikhel-trek",
+    "duration": "3 Days",
+    "category": "Short Trek (Kathmandu Valley)",
+    "description": "A brief and easy walk between two famous viewpoints, Nagarkot and Dhulikhel, offering rich culture and mountain vistas.",
+    "imageUrl": "https://images.unsplash.com/photo-1596708362615-38c7f1f09670?q=80&w=2070",
+    "days": []
+  },
+  {
+    "name": "Kathmandu Valley Ridge Trek",
+    "slug": "kathmandu-valley-ridge-trek",
+    "duration": "8 Days",
+    "category": "Short Trek (Kathmandu Valley)",
+    "description": "A longer trek that circles the entire Kathmandu Valley, staying in hilltop towns and enjoying continuous mountain views.",
+    "imageUrl": "https://images.unsplash.com/photo-1518005020952- ECC7613c7c7f?q=80&w=2070",
+    "days": []
+  },
+  {
+    "name": "Shivapuri National Park Hike",
+    "slug": "shivapuri-national-park-hike",
+    "duration": "3 Days",
+    "category": "Short Trek (Kathmandu Valley)",
+    "description": "A quick getaway into the protected forest north of Kathmandu, perfect for birdwatching and peaceful walks.",
+    "imageUrl": "https"
+  },
+  {
+    "name": "Dhampus Sarangkot Australian Base Camp Hike",
+    "slug": "dhampus-sarangkot-hike",
+    "duration": "3 Days",
+    "category": "Short Trek (Annapurna)",
+    "description": "A classic short trek near Pokhara, offering spectacular, up-close views of the Annapurna and Fishtail mountains.",
+    "imageUrl": "https://images.unsplash.com/photo-1542649254-858053046d75?q=80&w=2070",
+    "days": []
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Fish Tail Lodge",
+    "slug": "fish-tail-lodge",
+    "pricePerNight": 150.00,
+    "rating": 4.5,
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1540541338287-41700207dee6?q=80&w=2070"
+    ],
+    "amenities": [
+      "Swimming Pool",
+      "Free WiFi",
+      "Spa",
+      "Restaurant"
+    ],
+    "destinationSlug": "phewa-lake"
+  },
+  {
+    "name": "The Pavilions Himalayas",
+    "slug": "pavilions-himalayas",
+    "pricePerNight": 250.00,
+    "rating": 4.8,
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=2070"
+    ],
+    "amenities": [
+      "Eco-friendly",
+      "Infinity Pool",
+      "Yoga Studio",
+      "Farm-to-table Restaurant"
+    ],
+    "destinationSlug": "pokhara"
+  },
+  {
+    "name": "Hotel Yak & Yeti",
+    "slug": "yak-and-yeti",
+    "pricePerNight": 180.00,
+    "rating": 4.2,
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1582719508461-905c673771fd?q=80&w=1925"
+    ],
+    "amenities": [
+      "Casino",
+      "Swimming Pool",
+      "Heritage Wing",
+      "Garden"
+    ],
+    "destinationSlug": "kathmandu"
+  },
+  {
+    "name": "Dwarika's Hotel",
+    "slug": "dwarikas-hotel",
+    "pricePerNight": 300.00,
+    "rating": 4.9,
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?q=80&w=2080"
+    ],
+    "amenities": [
+      "Heritage Building",
+      "Courtyard",
+      "Spa",
+      "Multiple Restaurants"
+    ],
+    "destinationSlug": "kathmandu"
+  }
+]
